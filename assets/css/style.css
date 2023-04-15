@@ -37,6 +37,7 @@
     align-items: center;
     background-color: #606D5D;
     padding: 20px;
+    /* added background color for the banner */
 }
 .profileImg{
     width: 200px;
