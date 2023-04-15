@@ -13,7 +13,7 @@ https://deliaswe.github.io/portfolio-project/
 
 ## Usage
 
-![](./assets/images/screencapture-deliaswe-github-io-portfolio-project-2023-04-14-22_23_01.png)
+![](./assets/images/screencapture-deliaswe-github-io-Portfolio-Project-2023-04-14-22_23_01.pngassets)
 
 ## Credits
 N/A
